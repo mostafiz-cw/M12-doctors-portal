@@ -40,14 +40,6 @@ const HeroSection = () => {
           <img src={chair} className="relative ml-auto" alt="" />
         </div>
       </div>
-      {/* <div className="container m-auto px-6 py-40 md:px-12 lg:py-0 lg:px-7">
-        
-      </div> */}
-      {/* <div className="relative w-full">
-        <div className="min-h-screen flex">
-          
-        </div>
-      </div> */}
     </>
   );
 };
